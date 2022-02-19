@@ -38,7 +38,7 @@ This project utilizes python 3.7 along with the following packages:
 
 ## Usage
 
-This notebook is designed to work within Google Colab. Once you download the Jupyter Notebook file, head to the Google Colab webpage and follow the animation below to load the notebook into the page:
+This notebook is designed to work within Google Colab. Once you download the Jupyter Notebook file, head to the [Google Colab](https://colab.research.google.com/) webpage and follow the animation below to load the notebook into the page:
 
 ![Animation](https://github.com/MaxAcheson/module_11_challenge/blob/main/Images/module_11_challenge.gif)
 
